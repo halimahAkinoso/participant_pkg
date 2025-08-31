@@ -25,7 +25,7 @@ def save_participant(path, participant_dict):
   # with open(csv_file, "r", encoding="utf-8")as f:
   #   reader = csv.reader(f)
 
-# load participant from csv and return them as list of dict
+# reads participant from csv and return them as list of dict
 def load_participants(path):
   
     
